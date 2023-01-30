@@ -197,7 +197,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
       propertyPath: m_LocalPosition.y
@@ -693,7 +693,6 @@ MonoBehaviour:
   - {fileID: 5871292978698606275, guid: 7ac8e5cb17ed740cf9e3fbe2c980e7f6, type: 3}
   - {fileID: 8023372845603339536, guid: 0f19a7b527e5a4d9cb9bddbd373f6ff9, type: 3}
   - {fileID: 1181272779350049550, guid: 491e52eb616124ddd8d20a4bc10a1dee, type: 3}
-  animalIndex: 3
 --- !u!4 &991026439
 Transform:
   m_ObjectHideFlags: 0
